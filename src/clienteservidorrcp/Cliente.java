@@ -1,5 +1,6 @@
 /*
 Lógica del cliente: 
+Es indispensable descargar la librería xmlrpc-1.2-b1.jar
 */
 package clienteservidorrcp;
 
